@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# This simple bash script creates a template folder structure and files for creating basic web pages locally. 
+# The directories will be created in the location in which the script is stored.
+
 # Prompt for name of new directory
 read -p 'Name of directory: ' dirname
 
